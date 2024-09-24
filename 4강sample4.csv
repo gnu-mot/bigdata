@@ -1,0 +1,191 @@
+Unnamed: 0,year_month,job_title_final,job_posts
+0,2022-12,Data Analyst,28866
+1,2022-12,Data Engineer,41630
+2,2022-12,Cloud Engineer,1406
+3,2022-12,Data Scientist,32667
+4,2022-12,Business Analyst,5077
+5,2022-12,Software Engineer,5487
+6,2022-12,Senior Data Analyst,5341
+7,2022-12,Senior Data Engineer,12780
+8,2022-12,Senior Data Scientist,7265
+9,2022-12,Machine Learning Engineer,1897
+10,2023-01,Data Analyst,41046
+11,2023-01,Data Engineer,60963
+12,2023-01,Cloud Engineer,1816
+13,2023-01,Data Scientist,47079
+14,2023-01,Business Analyst,6849
+15,2023-01,Software Engineer,7050
+16,2023-01,Senior Data Analyst,8528
+17,2023-01,Senior Data Engineer,15780
+18,2023-01,Senior Data Scientist,10847
+19,2023-01,Machine Learning Engineer,2716
+20,2023-02,Data Analyst,30342
+21,2023-02,Data Engineer,47427
+22,2023-02,Data Scientist,34406
+23,2023-02,Cloud Engineer,1224
+24,2023-02,Business Analyst,5282
+25,2023-02,Software Engineer,4927
+26,2023-02,Senior Data Analyst,5949
+27,2023-02,Senior Data Engineer,12356
+28,2023-02,Senior Data Scientist,8000
+29,2023-02,Machine Learning Engineer,2126
+30,2023-03,Data Analyst,29494
+31,2023-03,Data Engineer,50187
+32,2023-03,Cloud Engineer,1290
+33,2023-03,Data Scientist,31783
+34,2023-03,Business Analyst,5326
+35,2023-03,Software Engineer,5201
+36,2023-03,Senior Data Analyst,5291
+37,2023-03,Senior Data Engineer,12615
+38,2023-03,Senior Data Scientist,7164
+39,2023-03,Machine Learning Engineer,2237
+40,2023-04,Data Analyst,28189
+41,2023-04,Data Engineer,46771
+42,2023-04,Cloud Engineer,1506
+43,2023-04,Data Scientist,30971
+44,2023-04,Business Analyst,6191
+45,2023-04,Software Engineer,5689
+46,2023-04,Senior Data Analyst,4697
+47,2023-04,Senior Data Engineer,11715
+48,2023-04,Senior Data Scientist,6969
+49,2023-04,Machine Learning Engineer,2025
+50,2023-05,Data Analyst,23084
+51,2023-05,Data Engineer,40343
+52,2023-05,Cloud Engineer,763
+53,2023-05,Data Scientist,27279
+54,2023-05,Business Analyst,3578
+55,2023-05,Software Engineer,3057
+56,2023-05,Senior Data Analyst,3585
+57,2023-05,Senior Data Engineer,10900
+58,2023-05,Senior Data Scientist,5626
+59,2023-05,Machine Learning Engineer,1532
+60,2023-06,Data Analyst,28410
+61,2023-06,Data Engineer,48317
+62,2023-06,Cloud Engineer,955
+63,2023-06,Data Scientist,33226
+64,2023-06,Business Analyst,4899
+65,2023-06,Software Engineer,3263
+66,2023-06,Senior Data Analyst,4759
+67,2023-06,Senior Data Engineer,12902
+68,2023-06,Senior Data Scientist,6822
+69,2023-06,Machine Learning Engineer,2073
+70,2023-07,Data Analyst,29505
+71,2023-07,Data Engineer,48377
+72,2023-07,Cloud Engineer,1525
+73,2023-07,Data Scientist,33357
+74,2023-07,Business Analyst,5850
+75,2023-07,Software Engineer,5534
+76,2023-07,Senior Data Analyst,4864
+77,2023-07,Senior Data Engineer,14223
+78,2023-07,Senior Data Scientist,7078
+79,2023-07,Machine Learning Engineer,2165
+80,2023-08,Data Analyst,32873
+81,2023-08,Data Engineer,49774
+82,2023-08,Cloud Engineer,2020
+83,2023-08,Data Scientist,37808
+84,2023-08,Business Analyst,7462
+85,2023-08,Software Engineer,7380
+86,2023-08,Senior Data Analyst,5408
+87,2023-08,Senior Data Engineer,14176
+88,2023-08,Senior Data Scientist,8475
+89,2023-08,Machine Learning Engineer,2382
+90,2023-09,Data Analyst,28274
+91,2023-09,Data Engineer,48422
+92,2023-09,Cloud Engineer,1592
+93,2023-09,Data Scientist,30737
+94,2023-09,Business Analyst,6593
+95,2023-09,Software Engineer,5602
+96,2023-09,Senior Data Analyst,4199
+97,2023-09,Senior Data Engineer,12109
+98,2023-09,Senior Data Scientist,6685
+99,2023-09,Machine Learning Engineer,2506
+100,2023-10,Data Analyst,29821
+101,2023-10,Data Engineer,51750
+102,2023-10,Cloud Engineer,1886
+103,2023-10,Data Scientist,34477
+104,2023-10,Business Analyst,7682
+105,2023-10,Software Engineer,7136
+106,2023-10,Senior Data Analyst,4657
+107,2023-10,Senior Data Engineer,14235
+108,2023-10,Senior Data Scientist,6646
+109,2023-10,Machine Learning Engineer,2903
+110,2023-11,Data Analyst,27579
+111,2023-11,Data Engineer,48940
+112,2023-11,Cloud Engineer,1887
+113,2023-11,Data Scientist,31781
+114,2023-11,Business Analyst,7112
+115,2023-11,Software Engineer,6861
+116,2023-11,Senior Data Analyst,3791
+117,2023-11,Senior Data Engineer,12902
+118,2023-11,Senior Data Scientist,6481
+119,2023-11,Machine Learning Engineer,2665
+120,2023-12,Data Analyst,24916
+121,2023-12,Data Engineer,42646
+122,2023-12,Cloud Engineer,1723
+123,2023-12,Data Scientist,29090
+124,2023-12,Business Analyst,5928
+125,2023-12,Software Engineer,5924
+126,2023-12,Senior Data Analyst,3516
+127,2023-12,Senior Data Engineer,10606
+128,2023-12,Senior Data Scientist,6561
+129,2023-12,Machine Learning Engineer,2230
+130,2024-01,Data Analyst,21486
+131,2024-01,Data Engineer,44885
+132,2024-01,Cloud Engineer,1121
+133,2024-01,Data Scientist,26151
+134,2024-01,Business Analyst,4071
+135,2024-01,Software Engineer,4842
+136,2024-01,Senior Data Analyst,2784
+137,2024-01,Senior Data Engineer,10396
+138,2024-01,Senior Data Scientist,5762
+139,2024-01,Machine Learning Engineer,2632
+140,2024-02,Data Analyst,23722
+141,2024-02,Data Engineer,45927
+142,2024-02,Cloud Engineer,1218
+143,2024-02,Data Scientist,30299
+144,2024-02,Business Analyst,4796
+145,2024-02,Software Engineer,5153
+146,2024-02,Senior Data Analyst,2972
+147,2024-02,Senior Data Engineer,10850
+148,2024-02,Senior Data Scientist,6314
+149,2024-02,Machine Learning Engineer,2633
+150,2024-03,Data Analyst,24003
+151,2024-03,Data Engineer,45557
+152,2024-03,Data Scientist,24221
+153,2024-03,Cloud Engineer,942
+154,2024-03,Business Analyst,5000
+155,2024-03,Software Engineer,4414
+156,2024-03,Senior Data Analyst,2563
+157,2024-03,Senior Data Engineer,11959
+158,2024-03,Senior Data Scientist,5293
+159,2024-03,Machine Learning Engineer,2518
+160,2024-04,Data Analyst,20288
+161,2024-04,Data Engineer,41230
+162,2024-04,Cloud Engineer,956
+163,2024-04,Data Scientist,20547
+164,2024-04,Business Analyst,3970
+165,2024-04,Software Engineer,3870
+166,2024-04,Senior Data Analyst,2617
+167,2024-04,Senior Data Engineer,10558
+168,2024-04,Senior Data Scientist,4221
+169,2024-04,Machine Learning Engineer,2228
+170,2024-05,Data Analyst,21728
+171,2024-05,Data Engineer,41178
+172,2024-05,Cloud Engineer,1158
+173,2024-05,Data Scientist,24532
+174,2024-05,Business Analyst,3975
+175,2024-05,Software Engineer,4023
+176,2024-05,Senior Data Analyst,2790
+177,2024-05,Senior Data Engineer,11361
+178,2024-05,Senior Data Scientist,5935
+179,2024-05,Machine Learning Engineer,2247
+180,2024-06,Data Analyst,18483
+181,2024-06,Data Engineer,36582
+182,2024-06,Cloud Engineer,954
+183,2024-06,Data Scientist,20320
+184,2024-06,Business Analyst,3403
+185,2024-06,Software Engineer,4046
+186,2024-06,Senior Data Analyst,3079
+187,2024-06,Senior Data Engineer,10748
+188,2024-06,Senior Data Scientist,6197
+189,2024-06,Machine Learning Engineer,2092
